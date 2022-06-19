@@ -29,7 +29,6 @@ experience:
     date_end: '2022-04-30'
     description: |2-
         
-        * Grading assignments
 
   - title: Teaching Assistant in Visualizing and Understanding Social Data
     company: University of Pittsburgh
