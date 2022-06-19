@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Teaching
 subtitle:
 
 # Date format for experience
@@ -22,15 +22,54 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant to David Cunningham for research project “Preventing Civil War through International Actions”
-    company: University of Marryland
-    company_url: 'https://gvpt.umd.edu/'
-    date_start: '2021'
-    date_end: '2022'
+  - title: Teaching Assistant in Analysis of Comparative Politics
+    company: University of Pittsburgh
+    company_url: 'https://www.polisci.pitt.edu/'
+    date_start: '2022-01-10'
+    date_end: '2022-04-30'
+    description: |2-
+        
+        * Grading assignments
 
- 
+  - title: Teaching Assistant in Visualizing and Understanding Social Data
+    company: University of Pittsburgh
+    company_url: 'https://www.polisci.pitt.edu/'
+    date_start: '2022-01-10'
+    date_end: '2022-04-30'
+    description: |2-
+        
+        * Teaching R
+        * Grading weekly problem sets
+
+  - title: Teaching Assistant in Comparative Politics
+    company: University of Pittsburgh
+    company_url: 'https://www.polisci.pitt.edu/'
+    date_start: '2021-08-27'
+    date_end: '2021-12-18'
+    description: |2-
+        
+        * Leading weekly discussion
+        * Grading exams
+
+  - title: Teaching Assistant in Methods and Scope of Political Analysis
+    company: Sabanci University
+    company_url: 'https://www.sabanciuniv.edu/en'
+    date_start: '2019-09-01'
+    date_end: '2020-01-01'
+    description: |2-
     
+        * Teaching Stata and LaTeX
+        * Grading weekly problem sets
+
+  - title: Teaching Assistant in Research Methods
+    company: Sabanci University
+    company_url: 'https://www.sabanciuniv.edu/en'
+    date_start: '2018-09-01'
+    date_end: '2019-05-01'
+    description: |2-
     
+        * Leading weekly discussion
+        * Teaching statistical analysis
 design:
   columns: '2'
 ---
