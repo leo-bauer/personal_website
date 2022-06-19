@@ -27,8 +27,6 @@ experience:
     company_url: 'https://gvpt.umd.edu/'
     date_start: '2021'
     date_end: '2022'
-    description: |2-
-        
 
  
     
