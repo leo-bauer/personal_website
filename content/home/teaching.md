@@ -22,9 +22,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teaching Assistant in Analysis of Comparative Politics
-    company: University of Pittsburgh
-    company_url: 'https://www.polisci.pitt.edu/'
+  - title: Research assistant to David Cunningham for research project “Preventing Civil War through International Actions”
+    company: University of Marryland
+    company_url: 'https://gvpt.umd.edu/'
     date_start: '2022-01-10'
     date_end: '2022-04-30'
     description: |2-
