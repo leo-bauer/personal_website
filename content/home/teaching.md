@@ -25,50 +25,51 @@ experience:
   - title: Research assistant to David Cunningham for research project “Preventing Civil War through International Actions”
     company: University of Marryland
     company_url: 'https://gvpt.umd.edu/'
-    date_start: '2022-01-10'
-    date_end: '2022-04-30'
+    date_start: '2021-08-10'
+    date_end: '2022-08-30'
     description: |2-
         
 
-  - title: Teaching Assistant in Visualizing and Understanding Social Data
-    company: University of Pittsburgh
-    company_url: 'https://www.polisci.pitt.edu/'
-    date_start: '2022-01-10'
-    date_end: '2022-04-30'
+  - title: Research assistant to Ernesto Calvo at the Interdisciplinary Laboratory of Computational Social Science
+    company: University of Marryland
+    company_url: 'https://gvpt.umd.edu/'
+    date_start: '2022-05-10'
+    date_end: '2022-09-30'
     description: |2-
         
-        * Teaching R
-        * Grading weekly problem sets
 
-  - title: Teaching Assistant in Comparative Politics
-    company: University of Pittsburgh
-    company_url: 'https://www.polisci.pitt.edu/'
-    date_start: '2021-08-27'
-    date_end: '2021-12-18'
+  - title: Research assistant to Julian Junk at Research Group Radicalization
+    company: Peace Research Institute Frankfurt
+    company_url: 'https://www.hsfk.de/'
+    date_start: '2020-09-27'
+    date_end: '2021-09-18'
     description: |2-
         
-        * Leading weekly discussion
-        * Grading exams
 
-  - title: Teaching Assistant in Methods and Scope of Political Analysis
-    company: Sabanci University
-    company_url: 'https://www.sabanciuniv.edu/en'
+  - title: Research intern to Carolin G¨orzig at Max Planck Research Group How ‘Terrorists’ Learn
+    company: Max Planck Institute for Social Anthropology
+    company_url: 'https://www.eth.mpg.de/2169/en'
+    date_start: '2020-03-01'
+    date_end: '2020-06-01'
+    description: |2-
+    
+
+  - title: Research assistant to Christian Reuter at Research Group Science and Technology for Peace and Security
+    company: Technical University of Darmstadt
+    company_url: 'https://www.tu-darmstadt.de/index.en.jsp'
     date_start: '2019-09-01'
-    date_end: '2020-01-01'
+    date_end: '2020-06-01'
     description: |2-
     
-        * Teaching Stata and LaTeX
-        * Grading weekly problem sets
-
-  - title: Teaching Assistant in Research Methods
-    company: Sabanci University
-    company_url: 'https://www.sabanciuniv.edu/en'
-    date_start: '2018-09-01'
-    date_end: '2019-05-01'
+    
+  - title: Teaching assistant to Christian Czymara, Longitudinal Data Analysis and Causality (graduate level)
+    company: Peace Research Institute Frankfurt
+    company_url: 'https://www.hsfk.de/'
+    date_start: '2020-09-27'
+    date_end: '2021-09-18'
     description: |2-
     
-        * Leading weekly discussion
-        * Teaching statistical analysis
+    
 design:
   columns: '2'
 ---
