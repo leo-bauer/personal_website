@@ -10,7 +10,7 @@ role: PhD Student in Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Government and Politics, University of Maryland, College Park
+  - name: University of Maryland, College Park
     url: https://gvpt.umd.edu/
 
 
