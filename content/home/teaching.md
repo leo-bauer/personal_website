@@ -7,7 +7,7 @@ title: Projects
 subtitle: ''
 
 # Position of this section on the page
-weight: 1
+weight: 40
 
 content:
   # Filter content to display
@@ -34,7 +34,12 @@ design:
   # Choose a listing view
   view: compact
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 ---
 
-Check out my recent blog posts below!
+- title: Research assistant to David Cunningham for research project “Preventing Civil War through International Actions”
+    company: University of Marryland
+    company_url: 'https://gvpt.umd.edu/'
+    date_start: '2021-08-10'
+    date_end: '2022-08-30'
+    description: |2-
