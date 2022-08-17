@@ -1,6 +1,6 @@
 ---
-title: Classifying PolitiFact texts to better understand fact checking
-summary: An example of using the in-built project page.
+title: Classifying PolitiFact texts to predict fact-checking results
+summary: A project to better understand disinformation.
 tags:
 date: '2022-01-01T00:00:00Z'
 
@@ -24,4 +24,4 @@ url_video: ''
 slides: example
 ---
 
-TBD
+
