@@ -19,9 +19,6 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:leobauer@umd.edu" or "/#contact" for contact widget.
 social:
-  - icon: cv
-    icon_pack: ai
-    link: "uploads/cv_leo_bauer.pdf"
   - icon: envelope
     icon_pack: fas
     link: 'mailto:leobauer@umd.edu'
