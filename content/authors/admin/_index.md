@@ -39,6 +39,6 @@ highlight_name: true
 
 I'm a graduate student in the Department of Government and Politics at the University of Maryland, College Park. My research interests revolve around intrastate conflict, political violence, rebel group behavior and governance as well as computational methods. I hold a B.A. in American Studies from Leipzig University, Germany, and an M.A. in International Studies/Peace and Conflict Research from Goethe University Frankfurt, Germany. Before starting graduate school at UMD I gained off-campus research experience at Peace Research Institute Frankfurt and the Max Planck Research Group How 'Terrorists' Learn.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 
