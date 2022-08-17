@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2006
+date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -28,7 +28,7 @@ item:
     date_start: '2022-01-01'
     description: ''
     organization: With Christian Czymara
-    organization_url: https://www.coursera.org
+    organization_url:
     title: Discursive Shifts in German Right-Wing Media 1997-2019: A Computational Approach
     url: ''
 
