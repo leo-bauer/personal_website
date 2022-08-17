@@ -25,6 +25,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/leo-bauer
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/leo__ba
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
