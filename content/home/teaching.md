@@ -27,7 +27,7 @@ experience:
     company_url: 'https://gvpt.umd.edu/'
     date_start: '2021-08-10'
     date_end: '2022-08-30'
-    description: |2-
+    description:
         
 
   - title: Research assistant to Ernesto Calvo at the Interdisciplinary Laboratory of Computational Social Science
