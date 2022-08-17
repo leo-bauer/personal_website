@@ -20,7 +20,7 @@ organizations:
 #   form "mailto:leobauer@umd.edu" or "/#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: fab
     link: '/#contact'
   - icon: github
     icon_pack: fab
