@@ -1,8 +1,8 @@
 ---
-title: Classifying PolitiFact texts to predict fact-checking results
+title: Predicting fact-checking results using BERT language models
 summary: A project to better understand disinformation.
 tags:
-date: '2022-01-01T00:00:00Z'
+date: '2021-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://ilcss.umd.edu/political-communication'
