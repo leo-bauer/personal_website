@@ -1,5 +1,5 @@
 ---
-title: XXX
+title: Classifying PolitiFact texts to better understand fact checking
 summary: An example of using the in-built project page.
 tags:
 date: '2022-01-01T00:00:00Z'
@@ -8,8 +8,8 @@ date: '2022-01-01T00:00:00Z'
 external_link: 'https://ilcss.umd.edu/political-communication'
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: 
+  focal_point:
 
 url_code: ''
 url_pdf: ''
