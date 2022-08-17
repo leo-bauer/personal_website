@@ -11,7 +11,7 @@ role: PhD Student in Political Science
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Maryland, College Park
-    url: https://www.umd.edu/
+    url: https://gvpt.umd.edu/
 
 
 # Social/Academic Networking
