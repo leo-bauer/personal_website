@@ -7,18 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: CV
+    url: '#cv'
+    weight: 20
   - name: Working Papers
     url: '#w1'
-    weight: 20
-  - name: Grants & Fellowships
-    url: '#w2'
     weight: 30
+#  - name: Grants & Fellowships
+#    url: '#w2'
+#    weight: 30
   - name: Experience
     url: '#teaching'
     weight: 40
-  - name: CV
-    url: '#cv'
-    weight: 50
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
