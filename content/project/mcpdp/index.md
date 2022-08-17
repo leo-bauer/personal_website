@@ -2,7 +2,6 @@
 title: Mediation and Conflict Prevention Data Project
 summary: A data project on mediation events.
 tags:
-  - Deep Learning
 date: '2021-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
