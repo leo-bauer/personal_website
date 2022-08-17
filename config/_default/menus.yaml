@@ -13,8 +13,8 @@ main:
 #  - name: Grants & Fellowships
 #    url: '#w2'
 #    weight: 30
-  - name: Experience
-    url: '#teaching'
+  - name: Projects
+    url: '#projects'
     weight: 30
 #  - name: Contact
 #    url: '#contact'
