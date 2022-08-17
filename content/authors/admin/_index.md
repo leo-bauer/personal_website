@@ -20,11 +20,14 @@ organizations:
 #   form "mailto:leobauer@umd.edu" or "/#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fab
-    link: '/#contact'
+    icon_pack: fas
+    link: 'mailto:leobauer@umd.edu'
   - icon: github
     icon_pack: fab
     link: https://github.com/leo-bauer
+    - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/leo__ba
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
