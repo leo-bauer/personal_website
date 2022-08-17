@@ -1,6 +1,6 @@
 ---
 title: Predicting fact-checking results using BERT language models
-summary: A project to better understand disinformation.
+summary: A project to better understand disinformation and the impact of counter-strategies.
 tags:
 date: '2021-01-01T00:00:00Z'
 
