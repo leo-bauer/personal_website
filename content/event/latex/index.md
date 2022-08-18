@@ -49,4 +49,4 @@ This workshop is designed to give a basic introduction to working with LaTeX to 
 
 A video of the presentation can be found {{< staticref "https://umd.box.com/s/41q3ysw9e1kka035lw68xqsnplzhkxh6" "newtab" >}}here{{< /staticref >}}. 
 
-Useful {{< staticref "https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX/Templates" "newtab" >}}templates{{< /staticref >}}, {{< staticref "https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX/Cheat%20Sheets" "newtab" >}}cheatsheets{{< /staticref >}}, and bibliography style {{< staticref "https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX/Bibliography%20Style%20Files" "newtab" >}}files{{< /staticref >}} are also available.
+Useful {{< staticref "https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX/Templates" "newtab" >}}templates{{< /staticref >}}, {{< staticref "https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX/Cheat%20Sheets" "newtab" >}}cheatsheets{{< /staticref >}}, and {{< staticref "https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX/Bibliography%20Style%20Files" "newtab" >}}bibliography style files{{< /staticref >}} are also available.
