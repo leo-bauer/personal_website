@@ -1,6 +1,6 @@
 ---
 title: Mediation and Conflict Prevention Data Project
-summary: A data project on global mediation events in self-determination disputes.
+summary: A data project on mediation events in self-determination disputes.
 tags:
 date: '2022-01-01T00:00:00Z'
 
