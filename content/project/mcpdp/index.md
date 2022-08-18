@@ -27,4 +27,4 @@ slides: example
 
 Under the leadership of Dr. David Cunningham, this project aims at collecting data on mediation events for a global sample of self-determination disputes. While existing data projects have collected data mainly on conflict mediation during hostilities, we do so for the whole period of time during which a self-determination dispute persists. 
 
-Ulitmately, with these data we aim to understand whether and under what conditions mediation efforts can prevent civil war occurrence.
+To collect data we comb newspaper article databases, use machine learning to improve search results and employ human coders to code events for our data set. Ulitmately, with these data we aim to understand whether and under what conditions mediation efforts can prevent civil wars from breaking out.
