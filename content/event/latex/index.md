@@ -6,10 +6,9 @@ abstract: 'This workshop is designed to give a basic introduction to working wit
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date_format: "2006"
-date: '2030-06-01T13:00:00Z'
+# date: '2030-06-01T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
-all_day: true
+# all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
