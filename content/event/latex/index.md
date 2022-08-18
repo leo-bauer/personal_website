@@ -47,6 +47,6 @@ projects:
 
 This workshop is designed to give a basic introduction to working with LaTeX to create scientific documents. Participants learn about ways to use LaTeX online and offline, the principal logic of producing documents and the document structure. Further, the workshop covers how to structure text, include graphical elements, tables and math formulas, as well as how to cite literature and use bibliographies. The aim is that after the workshop participants are equipped with the skills to create basic scientific LaTeX documents on their own.
 
-A video of the presentation can be found {{< staticref "https://umd.box.com/s/41q3ysw9e1kka035lw68xqsnplzhkxh6" "newtab" >}}here{{< /staticref >}}. 
+A video of the presentation can be found {{< staticref "https://umd.box.com/s/41q3ysw9e1kka035lw68xqsnplzhkxh6" "newtab" >}}here{{< /staticref >}}. The slides used for the presentation are available 
 
 Useful {{< staticref "https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX/Templates" "newtab" >}}templates{{< /staticref >}}, {{< staticref "https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX/Cheat%20Sheets" "newtab" >}}cheatsheets{{< /staticref >}}, and {{< staticref "https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX/Bibliography%20Style%20Files" "newtab" >}}bibliography style files{{< /staticref >}} are also available.
