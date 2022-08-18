@@ -1,19 +1,8 @@
 ---
-title: Example Talk
+title: A Very Short Introduction to LaTeX
 
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: A concise workshop on creating scientific documents with LaTeX.
+abstract: 'This workshop is designed to give a basic introduction to working with LaTeX to create scientific documents. Participants learn about ways to use LaTeX online and offline, the principal logic of producing documents and the document structure. Further, the workshop covers how to structure text, include graphical elements, tables and math formulas, as well as how to cite literature and use bibliographies. The aim is that after the workshop participants are equipped with the skills to create basic scientific LaTeX documents on their own.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
