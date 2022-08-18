@@ -19,7 +19,7 @@ main:
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
-  - name: Workshop Materials
+  - name: Talks
     url: '#talks'
     weight: 50
 
