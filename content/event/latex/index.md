@@ -2,7 +2,7 @@
 title: A Very Short Introduction to LaTeX
 
 summary: A concise workshop on creating scientific documents with LaTeX.
-abstract: 'This workshop is designed to give a basic introduction to working with LaTeX to create scientific documents. Participants learn about ways to use LaTeX online and offline, the principal logic of producing documents and the document structure. Further, the workshop covers how to structure text, include graphical elements, tables and math formulas, as well as how to cite literature and use bibliographies. The aim is that after the workshop participants are equipped with the skills to create basic scientific LaTeX documents on their own.'
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -45,6 +45,8 @@ projects:
   - example
 ---
 
+This workshop is designed to give a basic introduction to working with LaTeX to create scientific documents. Participants learn about ways to use LaTeX online and offline, the principal logic of producing documents and the document structure. Further, the workshop covers how to structure text, include graphical elements, tables and math formulas, as well as how to cite literature and use bibliographies. The aim is that after the workshop participants are equipped with the skills to create basic scientific LaTeX documents on their own.
+
 A video of the presentation can be found here. The slides used for the presentation are available here.
 
-Useful templates (click!), cheatsheets (click!), and bibliography style files (click!) are also available.
+Useful templates, cheatsheets, and bibliography style files are also available.
