@@ -37,8 +37,10 @@ email: ''
 highlight_name: true
 ---
 
-I'm a graduate student in the Department of Government and Politics at the University of Maryland, College Park. My research interests revolve around intrastate conflict, political violence, rebel group behavior and governance as well as computational methods. I hold a B.A. in American Studies from Leipzig University, Germany, and an M.A. in International Studies/Peace and Conflict Research from Goethe University Frankfurt, Germany. Before starting graduate school at UMD I gained off-campus research experience at Peace Research Institute Frankfurt and the Max Planck Research Group How 'Terrorists' Learn.
+Hi there! Thank you for stopping by to check my website. I'm a doctoral student in the Department of Government and Politics at the University of Maryland, College Park. I study the behavior of rebel groups in intrastate conflict, with a particular emphasis on rebel governance. Specifically, I explore the impact of aspects of rebel governance on violence against civilians as well as the politics of redistribution under rebel rule. I study these topics by relying on quantitative and computational methodologies.
 
-Download my {{< staticref "uploads/cv_leo_bauer.pdf" "newtab" >}}CV{{< /staticref >}}.
+My enthusiasm for computational social science has also led to several collaborative projects that lie apart from my current research agenda. I have built custom web scrapers to collect data from newspapers, employed topic modeling to explore large corpora of text and trained cutting-edge language models for classification tasks. One of these projects has made it into a paper that is currently under review. 
+
+Feel free to reach out to me with any questions you might have! You can download my {{< staticref "uploads/cv_leo_bauer.pdf" "newtab" >}}CV{{< /staticref >}} here.
 
 
