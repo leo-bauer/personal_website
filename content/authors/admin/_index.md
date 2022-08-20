@@ -43,6 +43,8 @@ I'm a doctoral student in the Department of Government and Politics at the Unive
 
 My enthusiasm for computational social science has also led to several collaborative projects that lie apart from my current research agenda. I have built custom web scrapers to collect data from newspapers, employed topic modeling to explore large corpora of text and trained cutting-edge language models for classification tasks. One of these projects has made it into a paper that is currently under review. 
 
-Feel free to reach out to me with any questions you might have! You can download my CV {{< staticref "uploads/cv_leo_bauer.pdf" "newtab" >}}here{{< /staticref >}}.
+Feel free to reach out to me with any questions you might have! 
+
+You can download my CV {{< staticref "uploads/cv_leo_bauer.pdf" "newtab" >}}here{{< /staticref >}}.
 
 
