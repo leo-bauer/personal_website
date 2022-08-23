@@ -16,7 +16,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Rebel governance
-  - Political violence
+  - Civilian targeting
   - Redistributive politics
   - Computational methods
 
