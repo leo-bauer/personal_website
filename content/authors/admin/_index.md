@@ -16,15 +16,13 @@ organizations:
 # Interests to show in About widget
 interests:
   - Rebel governance
-  - Political violence  
+  - Political violence
+  - Redistributive politics
   - Computational methods
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Government and Politics (in progress)
-      institution: University of Maryland, College Park, United States
-      year:
     - course: MA in International Studies/Peace and Conflict Research
       institution: Goethe University Frankfurt, Germany
       year: 2021
