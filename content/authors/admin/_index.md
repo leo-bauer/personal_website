@@ -13,13 +13,6 @@ organizations:
   - name: University of Maryland, College Park
     url: https://gvpt.umd.edu/
 
-# Interests to show in About widget
-interests:
-  - Rebel governance
-  - Civilian targeting
-  - Redistributive politics
-  - Computational methods
-
 # Education to show in About widget
 education:
   courses:
