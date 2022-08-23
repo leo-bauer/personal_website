@@ -13,16 +13,6 @@ organizations:
   - name: University of Maryland, College Park
     url: https://gvpt.umd.edu/
 
-# Education to show in About widget
-education:
-  courses:
-    - course: MA in International Studies/Peace and Conflict Research
-      institution: Goethe University Frankfurt, Germany
-      year: 2021
-    - course: BA in American Studies
-      institution: Leipzig University, Germany
-      year: 2018
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
