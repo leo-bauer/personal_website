@@ -46,6 +46,6 @@ My enthusiasm for computational social science has also led to several collabora
 
 Feel free to reach out to me with any question you might have! 
 
-You can download my CV {{< staticref "uploads/cv_leo_bauer.pdf" "newtab" >}}here{{< /staticref >}}. </div>
-
-
+You can download my CV {{< staticref "uploads/cv_leo_bauer.pdf" "newtab" >}}here{{< /staticref >}}. 
+  
+</div>
