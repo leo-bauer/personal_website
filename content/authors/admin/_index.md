@@ -36,10 +36,6 @@ email: ''
 highlight_name: true
 ---
 
-.post-content p {
-    text-align: justify;
-}
-
 Hi there! Thank you for stopping by to check my website. 
 
 I'm a doctoral student in the Department of Government and Politics at the University of Maryland, College Park. I study the behavior of rebel groups in intrastate conflict, with a particular emphasis on rebel governance. Specifically, I explore the impact of rebel governance on violence against civilians as well as the politics of redistribution under rebel rule. I study these topics by relying on quantitative and computational methodologies.
