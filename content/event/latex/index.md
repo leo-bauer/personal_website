@@ -54,4 +54,3 @@ A video of the presentation can be found {{< staticref "https://umd.box.com/s/41
 Useful {{< staticref "https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX/Templates" "newtab" >}}templates{{< /staticref >}}, {{< staticref "https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX/Cheat%20Sheets" "newtab" >}}cheatsheets{{< /staticref >}}, and {{< staticref "https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX/Bibliography%20Style%20Files" "newtab" >}}bibliography style files{{< /staticref >}} are also available.
   
 </div>
-
