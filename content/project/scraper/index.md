@@ -1,6 +1,6 @@
 ---
-title: Mediation and Conflict Prevention Data Project
-summary: A data project on mediation events in self-determination disputes.
+title: Scraping the Archive of German Far-right Weekly Junge Freiheit
+summary: A webscraper in Python to collect text data from Germany's biggest far-right weekly newspaper.
 tags:
 date: '2022-01-01T00:00:00Z'
 
@@ -25,6 +25,8 @@ url_video: ''
 slides: example
 ---
 
-Led by Dr. David Cunningham, this project aims at collecting data on mediation events for a global sample of self-determination disputes. While existing data projects have collected data mainly on conflict mediation during hostilities, we do so for longer periods of time during which a self-determination dispute persists. Hence, we gather data on dispute mediation both during and absent violent conflict.
+This project came to fruition in Fall 2020 in collaboration with {{< staticref "https://czymara.com/" "newtab" >}}Christian Czymara{{< /staticref >}}. The scraper lets you download articles by volume (all issues in one calendar year) from the archive of Germany's biggest far-right weekly by circulation, Junge Freiheit. The archive covers the time period from 1997 to the present, with new issues being uploaded with a several-week lag. 
 
-To collect data we rely on newspaper article databases, use machine learning to improve search results and employ human coders to code events for our data set. Ulitmately, with these data we aim to understand whether and under what conditions mediation efforts can prevent civil wars from breaking out.
+The scraped data have individual articles as observations. Variables recorded for each article are date, title, the URL and the text. 
+
+A more technical description of the project as well as the code for the scraper can be found {{< staticref "https://github.com/leo-bauer/junge-freiheit-scraper" "newtab" >}}here{{< /staticref >}}. Instructions and code on how to integrate the browser extension are written for Windows. Let me know if you would like the scraper to run on Linux. 
