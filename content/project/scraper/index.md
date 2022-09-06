@@ -1,8 +1,8 @@
 ---
 title: Scraping the Archive of German Far-right Weekly Junge Freiheit
-summary: A webscraper in Python to collect text data from Germany's biggest far-right weekly newspaper.
+summary: A webscraper in Python to collect text data from Germany's biggest weekly far-right newspaper.
 tags:
-date: '2022-01-01T00:00:00Z'
+date: '2020-11-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
