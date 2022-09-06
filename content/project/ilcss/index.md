@@ -2,7 +2,7 @@
 title: Predicting fact-checking results using BERT language models
 summary: A project to better understand disinformation and the impact of counter-strategies.
 tags:
-date: '2021-01-01T00:00:00Z'
+date: '2022-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://ilcss.umd.edu/political-communication'
