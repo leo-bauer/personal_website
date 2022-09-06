@@ -29,4 +29,4 @@ This project came to fruition in the fall of 2020 in collaboration with {{< stat
 
 The scraped data have individual articles as observations. Variables recorded for each article are date, title, the URL and the text. 
 
-A more technical description of the project as well as the code for the scraper can be found {{< staticref "https://github.com/leo-bauer/junge-freiheit-scraper" "newtab" >}}here{{< /staticref >}}. Instructions and code on how to integrate the browser extension are written for Windows. Let me know if you would like the scraper to run on Linux. 
+A more technical description of the project as well as the code for the scraper can be found {{< staticref "https://github.com/leo-bauer/junge-freiheit-scraper" "newtab" >}}here{{< /staticref >}}. Instructions and code on how to integrate the browser extension are written for Windows. Let me know if you need code to run the scraper on a Linux OS. 
