@@ -25,7 +25,7 @@ url_video: ''
 slides: example
 ---
 
-This project came to fruition in fall 2020 in collaboration with {{< staticref "https://czymara.com/" "newtab" >}}Christian Czymara{{< /staticref >}}. The scraper lets you download articles by volume (all issues in one calendar year) from the archive of Germany's biggest far-right weekly by circulation, Junge Freiheit. The archive covers the time period from 1997 to the present, with new issues being uploaded with a several-week lag. 
+This project came to fruition in the fall of 2020 in collaboration with {{< staticref "https://czymara.com/" "newtab" >}}Christian Czymara{{< /staticref >}}. The scraper lets you download articles by volume (all issues in one calendar year) from the archive of Germany's biggest far-right weekly by circulation, Junge Freiheit. The archive covers the time period from 1997 to the present, with new issues being uploaded with a several-week lag. 
 
 The scraped data have individual articles as observations. Variables recorded for each article are date, title, the URL and the text. 
 
