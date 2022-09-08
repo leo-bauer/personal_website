@@ -11,7 +11,6 @@ image:
   caption: 
   focal_point:
 
-
 url_code: ''
 url_pdf: ''
 url_slides: ''
